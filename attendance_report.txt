@@ -1,0 +1,5 @@
+Student Attendance Report
+-------------------------
+Aung Aung - 90.0%
+Mya Mya - 75.0%
+Kyaw Kyaw - 50.0%
